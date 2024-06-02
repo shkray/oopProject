@@ -1,0 +1,6 @@
+@FrontBack.Server_HostAddress = http://localhost:5074
+
+GET {{FrontBack.Server_HostAddress}}/mangasite/
+Accept: application/json
+
+###

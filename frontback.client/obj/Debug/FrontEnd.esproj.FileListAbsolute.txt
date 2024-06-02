@@ -1,0 +1,3 @@
+C:\Users\akryl\OneDrive\Рабочий стол\OOP LABS\FrontBack\frontback.client\obj\Debug\FrontEnd.esproj.CoreCompileInputs.cache
+C:\Users\akryl\OneDrive\Рабочий стол\FrontBack\frontback.client\obj\Debug\FrontEnd.esproj.CoreCompileInputs.cache
+C:\Users\cutac\Desktop\FrontBack\frontback.client\obj\Debug\FrontEnd.esproj.CoreCompileInputs.cache
