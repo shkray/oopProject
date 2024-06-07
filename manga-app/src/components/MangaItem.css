@@ -1,0 +1,50 @@
+.manga-item h2 {
+    margin: 0;
+    font-size: 1.5em;
+  }
+
+  .close-modal {
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 700;
+  }
+
+  .modal {
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    margin-top: 25px;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  
+  .star-rating {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+  }
+
+  .filled-star {
+    color: #ffcc00;
+  }
+  
+  .empty-star {
+    color: #000;
+  }
+
+  .star-rating input {
+    display: none;
+  }
+  
+  .star-rating label {
+    color: #ccc;
+    cursor: pointer;
+  }
+  
+  .star-rating label:before {
+    font-size: 18px;
+    content: '★';
+  }

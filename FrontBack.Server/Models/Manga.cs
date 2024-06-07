@@ -9,6 +9,7 @@ namespace FrontBack.Server.Models
         public string Status { get; set; }
         public string Description { get; set; }
         public float Rating { get; set; }
+        public string Url { get; set; }
         public int AuthorId { get; set; }
         [ForeignKey(nameof(AuthorId))]
         public Author? Author { get; set; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cutac\\Desktop\\FrontBack\\FrontBack.Server\\Backend.csproj": {}
+    "C:\\Users\\cutac\\Desktop\\123\\FrontBack.Server\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cutac\\Desktop\\FrontBack\\FrontBack.Server\\Backend.csproj": {
+    "C:\\Users\\cutac\\Desktop\\123\\FrontBack.Server\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cutac\\Desktop\\FrontBack\\FrontBack.Server\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\cutac\\Desktop\\123\\FrontBack.Server\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\cutac\\Desktop\\FrontBack\\FrontBack.Server\\Backend.csproj",
+        "projectPath": "C:\\Users\\cutac\\Desktop\\123\\FrontBack.Server\\Backend.csproj",
         "packagesPath": "C:\\Users\\cutac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cutac\\Desktop\\FrontBack\\FrontBack.Server\\obj\\",
+        "outputPath": "C:\\Users\\cutac\\Desktop\\123\\FrontBack.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cutac\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.1.1, )"

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "ra11z45zvQc6ogt+CoEVRaVM6ldrOe1Y4Sq+p5d0kKI=",
+  "Hash": "ijmukYWylnU0a15+aNW8C5h+6acq5VlBwiQVzWp2/zI=",
   "Source": "Backend",
   "BasePath": "_content/Backend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\cutac\\Desktop\\FrontBack\\frontback.client\\FrontEnd.esproj",
+      "Identity": "C:\\Users\\cutac\\Desktop\\123\\frontback.client\\FrontEnd.esproj",
       "Version": 2,
       "Source": "FrontEnd",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

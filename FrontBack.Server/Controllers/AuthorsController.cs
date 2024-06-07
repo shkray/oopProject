@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using FrontBack.Server.Data;
 using FrontBack.Server.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Backend.Controllers
 {
@@ -146,6 +147,7 @@ namespace Backend.Controllers
         }
 
         // POST: api/Authors
+        [Authorize]
         [HttpPost]
         public async Task<ActionResult<Author>> PostAuthor(Author author)
         {
